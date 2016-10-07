@@ -1,6 +1,6 @@
 # MuPy
 
-Anomaly Detection using Python
+## Anomaly Detection using Python
 
 From constant monitoring of data using Excel and analyzing countless graphs to developing statistical models to automate the whole procedure, we’ve come a long way in our approach to detect anomalies in processes.
 
@@ -20,23 +20,23 @@ The structure of the talk will be as follows:
 3.	Algorithms currently in use
 4.	Python libraries used 
 5.	Code demo 
-a.	EDA: Basic techniques
-b.	Fault detection
+   a.	EDA: Basic techniques
+  b.	Fault detection
 
-Pre-requisites
+### Pre-requisites
 
 
 1.	Basic stats, ML and Python knowledge
 2.	Love for Pandas (the library)
 
 
-Content URL
+### Content URL
 
 https://github.com/ShreyaKhurana/MuPy/blob/master/MuPy_Anomaly_Detection.ipynb
 
 
-Speaker Info
+### Speaker Info
 
-I’m working as a data scientist at Ecofrost Technologies, Pune. I completed my B. Tech (IT and Mathematical Innovations) from Cluster Innovation Centre, University of Delhi in 2016.
+I’m working as a data scientist with Ecofrost Technologies, Pune. I completed my B. Tech (IT and Mathematical Innovations) from Cluster Innovation Centre, University of Delhi in 2016.
 Math + Cricket person, so obviously started with cricket analytics and have been using Python for analytics since a year and half.
 
