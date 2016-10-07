@@ -21,7 +21,7 @@ The structure of the talk will be as follows:
 4.	Python libraries used 
 5.	Code demo 
    a.	EDA: Basic techniques
-  b.	Fault detection
+   b.	Fault detection
 
 ### Pre-requisites
 
